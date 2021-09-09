@@ -1,0 +1,12 @@
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\bin\Debug\net5.0\Electricity_Bill_Classes.deps.json
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\bin\Debug\net5.0\Electricity_Bill_Classes.dll
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\bin\Debug\net5.0\ref\Electricity_Bill_Classes.dll
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\bin\Debug\net5.0\Electricity_Bill_Classes.pdb
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\obj\Debug\net5.0\Electricity_Bill_Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\obj\Debug\net5.0\Electricity_Bill_Classes.AssemblyInfoInputs.cache
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\obj\Debug\net5.0\Electricity_Bill_Classes.AssemblyInfo.cs
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\obj\Debug\net5.0\Electricity_Bill_Classes.csproj.CoreCompileInputs.cache
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\obj\Debug\net5.0\Electricity_Bill_Classes.dll
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\obj\Debug\net5.0\ref\Electricity_Bill_Classes.dll
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\obj\Debug\net5.0\Electricity_Bill_Classes.pdb
+E:\TechCareer\10-RAD Programming_C#\Assignment\Assignment_2\Electricity_Bill\Electricity_Bill_Classes\obj\Debug\net5.0\Electricity_Bill_Classes.csproj.AssemblyReference.cache
